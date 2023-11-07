@@ -1,5 +1,4 @@
-# Use JDBC to connect postgresSQL with docker
-
+# Establish a PostgreSQL connection via JDBC within a Docker network.
 
 ## Try Docker
 ```
